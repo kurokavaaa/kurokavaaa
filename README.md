@@ -33,8 +33,8 @@
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kurokavaaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurokavaaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kurokavaaa&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurokavaaa&theme=tokyonight" />
 </p>
 
 <p align="center">
